@@ -32,7 +32,7 @@ This project consists of two parts: frontend and backend. Follow the instruction
 
 ## Contributing
 
-Interested in contributing to the Book Library Project? Here's how:
+Interested in contributing to the Book Library Backend Project? Here's how:
 
 1. Check the existing issues or create new ones.
 2. Fork the repository and create a branch for the issue you're working on.
